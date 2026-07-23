@@ -1,3 +1,4 @@
+//回文数
 public class whilecircle{
   public static void mian(String[]args){
 int x = 12345;
